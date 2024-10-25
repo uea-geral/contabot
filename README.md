@@ -1,6 +1,6 @@
 ![](./docs/badge.png)
 
-# Condabot
+# Contabot
 
 > 🤖 A LLM bot for businesses
 
