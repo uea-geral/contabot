@@ -1,0 +1,31 @@
+.homepage {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  gap: 20px;
+}
+
+.homepage .content {
+  display: flex;
+  flex-direction: column;
+  padding: 0px 24px;
+  gap: 20px;
+}
+
+.homepage .content > label {
+  font-weight: bold;
+}
+
+.homepage .modules {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.homepage .modules .module {
+  max-width: 100px;
+  padding: 8px;
+  display: flex;
+  gap: 6px;
+  flex-direction: column;
+}
